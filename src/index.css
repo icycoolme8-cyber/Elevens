@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Premium defaults */
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #000;
+}
